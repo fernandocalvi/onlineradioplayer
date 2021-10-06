@@ -279,6 +279,21 @@
                <img src="https://media3.ntslive.co.uk/resize/200x200/b667c612-1ef6-4bfd-ae87-0cec0a19629d_1626307200.jpeg">
                <div>NTS - Low Key</div>
             </a>
+            <a class="radio" href="javascript:void(0)" onclick="PlayVideo('https://stream-mixtape-geo.ntslive.net/mixtape5?client=NTSWebApp&t=1633516704357');">
+               <img src="https://media.ntslive.co.uk/resize/400x400/c3bad52d-418b-4bf6-aff5-eea3b9ff1186_1542931200.jpeg">
+               <div>NTS - 4 To The Floor</div>
+            </a>
+         </div>
+         <h2>Lo Fi</h2>
+         <div class="rowContainer">
+            <a class="radio" href="javascript:void(0)" onclick="PlayVideo('http://hyades.shoutca.st:8043/autodj');">
+               <img src="https://cdn-profiles.tunein.com/s288329/images/logod.jpg?t=636294">
+               <div>Chillhop & LoFi HipHop Radio</div>
+            </a>
+            <a class="radio" href="javascript:void(0)" onclick="PlayVideo('https://usa9.fastcast4u.com/proxy/jamz?mp=/1');">
+               <img src="https://cdn-profiles.tunein.com/s303481/images/logod.jpg?t=151663">
+               <div>Lofi 24/7</div>
+            </a>
          </div>
          </div>
          <div class="player">
