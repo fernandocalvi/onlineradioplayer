@@ -10,13 +10,11 @@
       <link href="https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
       <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
       <link rel="stylesheet" href="./style.css">
-
-
    </head>
    <body>
          <header>
             <i class="fas fa-headphones-alt"></i>        
-            <h1>Online Radio Player</h1>
+            <h1>ORP</h1>
          </header>
       <div class="container">
          <div class="radioContainer">
