@@ -95,9 +95,9 @@
             <div class="player-container">            
                <div id="play" class="play_pause_button fas fa-pause" data-toggle="tooltip" title="Play/Pause" onclick="aud_play_pause()"></div>
                <div id="current" class="current hitem">Currently playing...</div>
-               <video id="video" controls="" autoplay="" name="media" class="videoPlayer" onclick="this.paused ? this.load() : this.pause();" preload="none">
+               <audio id="video" controls="" autoplay="" name="media" class="videoPlayer" onclick="this.paused ? this.load() : this.pause();" preload="none">
                   <source id="source" src="" type="audio/mpeg">
-               </video>
+               </audio>
             </div>
          </div>
       </div>
