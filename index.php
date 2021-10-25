@@ -81,10 +81,6 @@
          </div>
          <h2>Lo Fi</h2>
          <div class="rowContainer">
-            <a class="radio" href="javascript:void(0)" onclick="PlayVideo('http://hyades.shoutca.st:8043/autodj');">
-               <img src="https://cdn-profiles.tunein.com/s288329/images/logod.jpg?t=636294">
-               <div>Chillhop & LoFi HipHop Radio</div>
-            </a>
             <a class="radio" href="javascript:void(0)" onclick="PlayVideo('https://usa9.fastcast4u.com/proxy/jamz?mp=/1');">
                <img src="https://cdn-profiles.tunein.com/s303481/images/logod.jpg?t=151663">
                <div>Lofi 24/7</div>
